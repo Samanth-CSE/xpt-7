@@ -1,1 +1,1 @@
-print("the sun rays are beutiful")
+print("the sun rays are beutiful in mysore")
